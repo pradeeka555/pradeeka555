@@ -84,10 +84,6 @@
 
 ---
 
-
-
-
-
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 
 <p align="center">
@@ -107,6 +103,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
