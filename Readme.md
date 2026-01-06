@@ -1,4 +1,5 @@
-### <div align="center">I'm Pradeeka, a full-time data analyst 👨‍💻 🚀</div>  
+
+### <div align="left">I'm Pradeeka, passionate Data analytics 👨‍💻 🚀</div>  
   
 
 - 🔭 Final year of B.E program, focusing on Electrical and Electronics Engineering at Bannari Amman Institute of Technology  
@@ -48,6 +49,26 @@
 
 
 ## Connect with me  
+<div align="left">
+  <!-- Gmail -->
+  <a href="mailto:Pradeeka555@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+         height="35" alt="gmail logo" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pradeeka-r-77103a268" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+         height="35" alt="linkedin logo" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/_prathi_5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
+         height="35" alt="instagram logo" />
+  </a>
+</div>
+
   
 
 <br/>  
